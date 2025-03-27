@@ -1,2 +1,1 @@
-while True:
-    print ("Heitor é pobre")
+print ("oi ccelso")
